@@ -28,6 +28,8 @@ O **QA Playbook** é o quarto projeto do portfólio de engenharia de qualidade (
 6. **Triagem Determinística no CI:** Classificação automatizada de falhas antes de gastar tempo de dev.
 7. **IA no Pipeline:** Diretrizes para uso consultivo de LLMs com isolamento total dos gates de merge.
 8. **Test Plan de 1 Página & ADR:** Documentação ágil de escopo, matriz de risco em rings (`@critical` / `@full`) e registros de decisão técnica.
+9. **Métricas, KPIs & Matriz de Risco:** Escape rate, patch coverage, flaky rate e testes de mutação (Stryker).
+10. **Templates & Snippets Reais:** Modelos prontos de Test Plan, ADR e workflows de CI/CD.
 
 ---
 

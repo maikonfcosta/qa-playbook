@@ -32,7 +32,8 @@ export default defineConfig({
           { text: '5. Política de Flaky Tests', link: '/docs/05-politica-flaky' },
           { text: '6. Triagem Determinística no CI', link: '/docs/06-triagem-ci' },
           { text: '7. IA no Pipeline: Limites & Uso', link: '/docs/07-ia-no-pipeline' },
-          { text: '8. Test Plan de 1 Página & ADR', link: '/docs/08-test-plan-e-adr' }
+          { text: '8. Test Plan de 1 Página & ADR', link: '/docs/08-test-plan-e-adr' },
+          { text: '9. Métricas, KPIs & Risco', link: '/docs/09-metricas-e-kpis-qa' }
         ]
       },
       {
