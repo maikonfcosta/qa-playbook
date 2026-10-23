@@ -8,6 +8,10 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
 
+  head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/qa-playbook/favicon.svg' }]
+  ],
+
   themeConfig: {
     siteTitle: 'QA Playbook',
     nav: [
