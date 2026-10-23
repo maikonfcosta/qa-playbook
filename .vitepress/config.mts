@@ -34,6 +34,14 @@ export default defineConfig({
           { text: '7. IA no Pipeline: Limites & Uso', link: '/docs/07-ia-no-pipeline' },
           { text: '8. Test Plan de 1 Página & ADR', link: '/docs/08-test-plan-e-adr' }
         ]
+      },
+      {
+        text: 'Templates & Snippets Reais',
+        items: [
+          { text: 'Template: Test Plan de 1 Página', link: '/docs/templates/test-plan-template' },
+          { text: 'Template: ADR para QA', link: '/docs/templates/adr-template' },
+          { text: 'Snippets: Workflows de CI & Sanitização', link: '/docs/templates/ci-workflows-snippets' }
+        ]
       }
     ],
 

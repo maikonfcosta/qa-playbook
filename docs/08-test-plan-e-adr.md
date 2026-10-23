@@ -35,6 +35,8 @@ Em vez de planos burocráticos, todo projeto adota um plano de uma página conte
 - [ ] Evidência de execução anexada ao card.
 ```
 
+👉 **[Ver Template Completo de Test Plan de 1 Página](./templates/test-plan-template.md)** com matriz de riscos e estratégia de massa.
+
 ---
 
 ## 2. Architecture Decision Records (ADR) para QA
@@ -54,3 +56,6 @@ Utilizar a API da Groq com o modelo `openai/gpt-oss-120b` via chamadas HTTP nati
 - **Positivas:** Tempo médio de resposta de ~1.8s; suporte a Structured Outputs nativo.
 - **Negativas:** Limite de taxa (rate limit) de requisições por minuto no tier gratuito exige espaçamento na suíte de avaliação.
 ```
+
+👉 **[Ver Template Estruturado de ADR para QA](./templates/adr-template.md)** com tabela de prós/contras e mitigação de riscos.
+

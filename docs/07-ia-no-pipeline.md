@@ -34,3 +34,6 @@ Muitas ferramentas de mercado prometem "100% de precisão mágica com IA". No P3
 - **10/10:** acerto considerando que o arquivo de origem estava contido no patch.
 
 Além disso, documentamos os casos em que o modelo alucinou — como culpar seletores de tela quando a falha real era uma expiração de sessão. Expor as limitações reais é o que separa engenharia de qualidade séria de marketing vazio de IA.
+
+👉 **[Ver Workflow YAML da Action e Função TypeScript de Higienização de Segredos](./templates/ci-workflows-snippets.md#2-pipeline-com-ia-consultiva-de-triagem-p3-ai-ci-triage)**.
+

@@ -41,3 +41,6 @@ A classificação baseia-se em padrões determinísticos de saída:
 - Avaliação com **22 falhas reais e provocadas** do P1.
 - **100% de acerto** nas classificações de alta confiança.
 - Saída formatada direto no **Job Summary do GitHub Actions** com tabela resumida e códigos de saída configuráveis para o gate.
+
+👉 **[Ver Workflow YAML e Padrões Regex do Classificador](./templates/ci-workflows-snippets.md#1-pipeline-com-triagem-determinística-p2-failure-classifier)**.
+
