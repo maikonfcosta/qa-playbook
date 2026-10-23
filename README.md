@@ -8,6 +8,12 @@
 
 ---
 
+## 🖥️ Demonstração
+
+![QA Playbook Usabilidade](docs/public/qa-playbook-demo.gif)
+
+---
+
 ## 🎯 Sobre o Projeto
 
 O **QA Playbook** é o quarto projeto do portfólio de engenharia de qualidade (P4). Reúne e consolida as decisões arquiteturais, políticas de teste e padrões aplicados nos projetos práticos anteriores:
