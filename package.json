@@ -1,0 +1,23 @@
+{
+  "name": "qa-playbook",
+  "version": "1.0.0",
+  "description": "Pragmatic QA engineering playbook based on real project evidence",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": [
+    "qa",
+    "test-automation",
+    "playwright",
+    "vitepress",
+    "quality-engineering"
+  ],
+  "author": "Maikon Costa",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
